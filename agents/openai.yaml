@@ -1,0 +1,10 @@
+name: Single Note Breakdown
+description: Break down one Xiaohongshu, RedNote, or Douyin post into click, retention, save, comment, and adaptation signals.
+skill: single-note-breakdown
+tags:
+  - xiaohongshu
+  - rednote
+  - douyin
+  - creator-tools
+  - content-strategy
+  - post-analysis
